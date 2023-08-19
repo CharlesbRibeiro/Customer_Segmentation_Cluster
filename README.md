@@ -6,6 +6,7 @@
   - [1.1 Context and Purpose](#11-context-and-purpose)
   - [1.2 Project Notebooks](#12-project-notebooks)
   - [1.3 Dataset Information](#13-dataset-information)
+  - [1.4 Dataset Origin](#14-dataset-origin)
 - [2. Software and Analysis](#2-software-and-analysis)
 - [3. Theoretical Introduction to Clustering](#3-theoretical-introduction-to-clustering)
   - [2.1 Understanding Clustering](#31-understanding-clustering)
@@ -31,6 +32,8 @@ The repository contains two Jupyter notebooks:
 ### 1.3 Dataset Information
 
 We use the publicly available Customer Personality Analysis dataset from Kaggle. It encompasses customer demographics, purchase history, online behavior, and psychological attributes. This rich dataset enables deeper customer understanding and data-driven decision-making.
+
+### 1.4 Dataset Origin
 
 ## 2. Software and Analysis
 
