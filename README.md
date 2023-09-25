@@ -11,7 +11,7 @@
 - [3. Theoretical Introduction to Clustering](#3-theoretical-introduction-to-clustering)
   - [2.1 Understanding Clustering](#31-understanding-clustering)
   - [2.2 Benefits and Challenges](#32-benefits-and-challenges)
-- [4. References]()
+- [4. References](#4-References)
 
 
 
@@ -62,6 +62,14 @@ Clustering offers benefits:
 **Decision Support**: Clustering provides valuable information that assists in decision making. By grouping similar data points together, individuals can make informed decisions based on the characteristics and patterns observed in each cluster. Clustering helps identify trends, target specific groups, and develop effective strategies.
 
 **Anomaly detection**: Clustering techniques allow the detection of anomalies or outliers in datasets. By identifying data points that deviate significantly from the normal behavior of clustered data, clustering algorithms help detect fraud, network intrusions, or other abnormal events that require immediate attention.
+
+# 4. References
+
+- **Website**: [scikit-learn K-Means Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+  - This documentation provides detailed information on the K-Means clustering algorithm in scikit-learn, offering insights into its parameters and usage.
+
+- **Book**: *Cluster Analysis, Fifth Edition (Wiley Series in Probability and Statistics)* by Brian S. Everitt, Sabine Landau, and Morven Leese (Wiley)
+  - This authoritative book on cluster analysis delves into the theory and practical aspects of clustering techniques, making it a valuable resource for those interested in data analysis and clustering methodologies.
 
 ---
 
