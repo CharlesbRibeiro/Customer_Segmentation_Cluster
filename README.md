@@ -35,6 +35,8 @@ We use the publicly available Customer Personality Analysis dataset from Kaggle.
 
 ### 1.4 Dataset Origin
 
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
 ## 2. Software and Analysis
 
 The clustering analysis utilizes Python, a powerful programming language for data analysis and machine learning. Spyder, an IDE, supports preprocessing, algorithm implementation, and result evaluation. This combination simplifies data processing and cluster model development.
